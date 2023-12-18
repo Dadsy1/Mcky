@@ -1,4 +1,4 @@
-from .kullanici import lineQR
+from .kullanici import lineAPI
 
 
-__all__ = ["lineQR"]
+__all__ = ["lineAPI"]
