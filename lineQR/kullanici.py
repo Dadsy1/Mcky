@@ -4,7 +4,7 @@ from .ayarlar import *
 
 
 
-class lineQR(Ayarlar,Sunucu):
+class lineAPI(Ayarlar,Sunucu):
     
     def __init__(self):
         Ayarlar.__init__(self)
